@@ -1,7 +1,5 @@
 """
 board.py
-Cmput 455 sample code
-Written by Cmput 455 TA and Martin Mueller
 
 Implements a basic Go board with functions to:
 - initialize to a given board size
