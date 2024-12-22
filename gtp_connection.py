@@ -2,11 +2,6 @@
 gtp_connection.py
 Module for playing games of Go using GoTextProtocol
 
-Cmput 455 sample code
-Written by Cmput 455 TA and Martin Mueller.
-Parts of this code were originally based on the gtp module 
-in the Deep-Go project by Isaac Henrion and Amos Storkey 
-at the University of Edinburgh.
 """
 import traceback
 import numpy as np
