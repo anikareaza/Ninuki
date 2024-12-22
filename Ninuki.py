@@ -3,8 +3,6 @@
 
 """
 Go0 random Go player
-Cmput 455 sample code
-Written by Cmput 455 TA and Martin Mueller
 """
 
 from gtp_connection import GtpConnection
